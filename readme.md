@@ -1,2 +1,2 @@
 # Description
-Project of developments related to Cientific Research and Completion of Course Work at UDESC - CCT
+Project of developments related to Cientific Research at UDESC - CCT about the application of AI to the financial market
